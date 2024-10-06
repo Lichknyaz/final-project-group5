@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/final-project-markup-group-5/",
+    "build": "vite build --base=/final-project-group5/",
     "preview": "vite preview"
   },
   "devDependencies": {
